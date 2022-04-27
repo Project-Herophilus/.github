@@ -8,11 +8,12 @@ To support any iDaaS branded artifact there are a subset of assets avaiable to a
 
 | Repository Name | Description |
 | ------ | ------------|
-|[iDaaS Connect](https://github.com/Project-Herophilus/iDaaS-Connect)|Connecting to all types of data and providing access to information in near realtime. It is intended to be a comprehensive set of design patterns, reference architecture, accelerators to help anyone and supports hundreds of connectors from legacy to modern to industry standards to various public clouds.|
+|[iDaaS Connect](https://github.com/Project-Herophilus/iDaaS-Connect)|Connecting to all types of data and providing access to information in near realtime. It is intended to be a comprehensive set of design patterns, reference architecture, accelerators to help anyone and supports hundreds of connectors from legacy to modern connectivity to industry standards to various public clouds connectivity needs.|
 |[iDaaS Route](https://github.com/Project-Herophilus/iDaaS-Route)|Routing of data - code and business rules based intelligent routing exist|
 |[iDaaS DREAM](https://github.com/Project-Herophilus/iDaaS-DREAM)|Business rules based platforms designed for usage within healthcare.|
 |[iDaaS KIC](https://github.com/Project-Herophilus/iDaaS-KIC)|Knowledge, Insight and Conformance is all about providing the ability to process errors, audit and other data. This consists of the endpoints, processing and persistence needed to support the platform.|
-| [iDaaS Data Simulators](https://github.com/Project-Herophilus/iDaaS-DataSimulators)| Having data is one aspect, the other is having tooling that can quickly be configured and used to test components. We have developed a data-simulators for our core components, Simulators to help in implementation and testing  |   
+| [iDaaS Data Simulators](https://github.com/Project-Herophilus/iDaaS-DataSimulators)| Having data is one aspect, the other is having tooling that can quickly be configured and used to test components. We have developed a data-simulators for our core components, Simulators to help in implementation and testing.  |   
+| [Event Builder](https://github.com/Project-Herophilus/Event-Builder)| A comprehensive library for parsing and building various types of healthcare industry standards based data.|
 
 # Add-Ons
 To support any iDaaS branded artifact there are a subset of assets avaiable to assist in the implementation : <br/>
