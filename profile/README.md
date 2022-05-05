@@ -1,5 +1,6 @@
-Upstream pure open source project to help healthcare access, process and build secure healthcare platforms using open source
-to drive innovation to solve business problems.
+Upstream open source based community to help the healthcare industry access, process and build secure healthcare platforms. All the techniologies features are leading open source projects that help solve business problems. The Project Herophilus community is not focused on driving data standards
+but helping organizations buid secure, scalable and extensible assets that are intended to help with data-driven innovation to solve business problems.
+As a young upstart community we are so pleased that we continue to see adoption globally within healthcare. We are also very humbled by sponsors of our efforts like Red Hat.
 
 For the communities overall content and materials you can look here: https://project-herophilus.github.io/Project-Herophilus-Assets/
 
@@ -14,7 +15,7 @@ To support any iDaaS branded artifact there are a subset of assets avaiable to a
 | [iDaaS Data Simulators](https://github.com/Project-Herophilus/iDaaS-DataSimulators)| Having data is one aspect, the other is having tooling that can quickly be configured and used to test components. We have developed a data-simulators for our core components, Simulators to help in implementation and testing.  |   
 | [Event Builder](https://github.com/Project-Herophilus/Event-Builder)| A comprehensive library for parsing and building various types of healthcare industry standards based data.|
 
-# Add-Ons
+# Add-Ons Efforts and Supporting Repositories 
 To support any iDaaS branded artifact there are a subset of assets avaiable to assist in the implementation : <br/>
 
 | Add-On | Description |
