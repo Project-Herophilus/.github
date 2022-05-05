@@ -1,6 +1,5 @@
-Upstream open source based community to help the healthcare industry access, process and build secure healthcare platforms. All the techniologies features are leading open source projects that help solve business problems. The Project Herophilus community is not focused on driving data standards
-but helping organizations buid secure, scalable and extensible assets that are intended to help with data-driven innovation to solve business problems.
-As a young upstart community we are so pleased that we continue to see adoption globally within healthcare. We are also very humbled by sponsors of our efforts like Red Hat.
+Upstream open source based community to help the healthcare industry to build secure healthcare platforms. All the technologies used
+in our community are leading open source projects that help solve business problems. The Project Herophilus community is not focused on driving data standards but helping organizations build secure, scalable and extensible assets that are intended to help with data-driven innovation to solve business problems. Our technology focus is cloud native based, we believe there is value in every cloud and not only support a cloud first approach but every asset runs on numerous technology footprints from containers, to iAAS to physical machines. As a young upstart community we are so pleased that we continue to see adoption globally within healthcare. We are also very humbled by sponsors of our efforts like Red Hat.
 
 For the communities overall content and materials you can look here: https://project-herophilus.github.io/Project-Herophilus-Assets/
 
