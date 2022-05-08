@@ -22,6 +22,6 @@ To support any iDaaS branded artifact there are a subset of assets avaiable to a
 | [Project Herophilus Technical Content](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform/Content) | Variety of content specific to iDaaS - PowerPoints, Word Docs, and Draw.IO diagrams|
 | [Test Data](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Testing)  | Test data for all healthcare industry standards work|
 | [Synthetic Data](https://github.com/Project-Herophilus/DataSynthesis)| When it comes to building or testing assets having lots of data to resemble you production data is critical, it also helps drive innovation. We have open sourced a synthetic data platform and continue to enahnce it based on feedback. It currently contains over 18 billion specific data attributes that can be used |
-
+| [De-Identification or Anonymization of Data](https://github.com/Project-Herophilus/Defianz)|Providing the capability to de-identify or anonymze data |
 
 
