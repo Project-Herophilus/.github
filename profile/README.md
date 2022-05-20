@@ -32,7 +32,7 @@ enabler to a mainstream application development enablement.has made these assets
 source software and all under Apache 2 licensing.
 
 Here is a detailed and Cloud Agnostic visual:<br/><br/>
-![Cloud Agnostic](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/images/iDaaS-Platform/Implementations/Implementations-Gen-CloudAgnostic.png)
+![Cloud Agnostic](/images/iDaaS-Platform/Implementations/Implementations-Gen-CloudAgnostic.png)
 
 
 # Core Repositories
