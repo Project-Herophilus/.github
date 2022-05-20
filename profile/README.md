@@ -31,9 +31,6 @@ while reducing risk and moving data integration towards <b>Data Innovation</b> a
 enabler to a mainstream application development enablement.has made these assets available to anyone using fully open
 source software and all under Apache 2 licensing.
 
-Here is a detailed and Cloud Agnostic visual:<br/><br/>
-![Cloud Agnostic](Implementations-Gen-CloudAgnostic.png)
-
 # Core Repositories
 To support any iDaaS branded artifact there are a subset of assets avaiable to assist in the implementation : <br/>
 
