@@ -32,7 +32,7 @@ enabler to a mainstream application development enablement.has made these assets
 source software and all under Apache 2 licensing.
 
 Here is a detailed and Cloud Agnostic visual:<br/><br/>
-![Cloud Agnostic](/images/Implementations-Gen-CloudAgnostic.png)
+![Cloud Agnostic](./images/Implementations-Gen-CloudAgnostic.png)
 
 # Core Repositories
 To support any iDaaS branded artifact there are a subset of assets avaiable to assist in the implementation : <br/>
