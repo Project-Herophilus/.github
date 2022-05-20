@@ -11,18 +11,18 @@ healthcare.
 Welcome to Project Herophilus, our mission is to be an open source upstream healthcare
 community focused on enabling healthcare care to solve problems with data driven assets. In order to help healthcare it was
 critical that we define [specific design principles](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/DesignPrinciples.md) to ensure a very
-[scalable, extensible and reusable architecture](Platform-Content/Design/Architecture.md) with a focus on enabling
-specific [capabilities](Platform-Content/Design/Capabilities.md). The intent of this organization is two fold: help drive
+[scalable, extensible and reusable architecture](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Architecture.md) with a focus on enabling
+specific [capabilities](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Capabilities.md). The intent of this organization is two fold: help drive
 data driven open source capabilities into healthcare while demonstrating how healthcare can leverage open source to
 solve industry problems. Why the name? Herophilus or spelled Herophilos, Herophilus was a Greek physician who is often
 credited with being the founder of Anatomy. Since anatomy is the foundation for medicine and our focus is around enabling
 healthcare we felt this was a very good name.
 
 Project Herophilus intent is to help with various areas related to data challenges consistently seen across all areas of
-healthcare for decades. We created a [fictious organization](Platform-Content/General/FictitiousOrg.md) for consistency and ensure we
+healthcare for decades. We created a [fictious organization](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/General/FictitiousOrg.md) for consistency and ensure we
 can accurately define and relate any solutions being developed. The overall project is intended to deal with
-[integration standards support](Platform-Content/Design/IntegrationStandardsSupported.md) and non industry standard data challenges.
-At Project Herophilus, we [leverage industry leading open source technologies](Platform-Content/Technical/Technologies.md)
+[integration standards support](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md) and non industry standard data challenges.
+At Project Herophilus, we [leverage industry leading open source technologies](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md)
 to help us bring the most widely adopted and used capabilities to bear. Assets currently available provide tools for configuration,
 testing, legacy and modern data integration, modern application integration, synthetic data, and more. All of these assets
 are available to any organization. The sole purpose of ALL the capabilities we have built for healthcare
@@ -32,8 +32,7 @@ enabler to a mainstream application development enablement.has made these assets
 source software and all under Apache 2 licensing.
 
 Here is a detailed and Cloud Agnostic visual:<br/><br/>
-![Cloud Agnostic](/images/iDaaS-Platform/Implementations/Implementations-Gen-CloudAgnostic.png)
-
+![Cloud Agnostic](/images/Implementations-Gen-CloudAgnostic.png)
 
 # Core Repositories
 To support any iDaaS branded artifact there are a subset of assets avaiable to assist in the implementation : <br/>
