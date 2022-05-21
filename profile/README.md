@@ -36,14 +36,12 @@ source software and all under Apache 2 licensing.
 # Key Links
 To support iDaaS here are some critical : <br/>
 
-| Link                                                                                                                                                                  | 
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| [Fictious Organization](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/General/FictitiousOrg.md)                          |
-| [Design Principles](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/DesignPrinciples.md)                            |
-| [Reusable Architecture](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Architecture.md)                            |
-| [Capabilities](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Capabilities.md)                                     |
-| [Integration Standards Supported](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md) |
-| [Open Source Technologies Used](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md)                 |
+* [Fictious Organization](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/General/FictitiousOrg.md)                          
+* [Design Principles](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/DesignPrinciples.md)                            
+* [Reusable Architecture](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Architecture.md)                            
+* [Capabilities](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Capabilities.md)                                     
+* [Integration Standards Supported](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md) 
+* [Open Source Technologies Used](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md)                 
 
 # Core Repositories
 To support any iDaaS branded artifact there are a subset of assets avaiable to assist in the implementation : <br/>
