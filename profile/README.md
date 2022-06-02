@@ -34,7 +34,7 @@ enabler to a mainstream application development enablement.has made these assets
 source software and all under Apache 2 licensing.
 
 # Key Links
-To support iDaaS here are some critical : <br/>
+Below are some key links that are contained within the content. We wanted to provide a section for some common and consistent critical content areas:
 
 * [Fictious Organization](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/General/FictitiousOrg.md)                          
 * [Design Principles](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/DesignPrinciples.md)                            
