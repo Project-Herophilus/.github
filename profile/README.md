@@ -1,7 +1,7 @@
 # Background
 Welcome to Project Herophilus, our mission is to be a premier open source upstream healthcare
-community focused on enabling healthcare care to solve problems with data driven assets. Open Source or the 
-"community" development model has been used in software development for almost two decades. Over the
+community focused on enabling healthcare care to solve data challenges and problems. The vision is for these assets to become avaiable for others to continue to expand on the vast amount of data challenges faced within healthcare. Open Source or the 
+"community" development model has been used in software development for almost two decades. But over the
 last decade it has increased exponentially with all significant software innovation coming from open-source communities. 
 Within the technology industry every major software company has either moved to this model or moved part or all of their 
 software into this model. Here is a <a href="https://www.redhat.com/rhdc/managed-files/rh-enterprise-open-source-report-f27565-202101-en.pdf" target="_blank">report</a>
