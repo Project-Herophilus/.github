@@ -1,8 +1,8 @@
 # Background
 Welcome to Project Herophilus, our community is named after a physician considered a key leader in healthcare. Herophilus, 
-was a Greek physician who was an anatomist. He  is also credited with being the founder of Anatomy. Since anatomy is one of the 
-foundations for medicine,  since our focus is around enabling/simplifying  and empowering data as the core  of healthcare we felt 
-this was a very good name.
+was a Greek physician who was an anatomist and credited with being the founder of Anatomy. With anatomy being one of the 
+foundations for medicine,  and since our focus is around enabling/simplifying and empowering data as the core of healthcare we felt 
+this was a very good name for our efforts.
 
 Our mission is to be a premier healthcare community focused on enabling healthcare care to solve data 
 challenges and problems. The way we plan on enabling this is through open source. Our decision to be completely open is based on 
