@@ -31,7 +31,7 @@ Below are some key links that are contained within the content. We wanted to pro
 * [Integration Standards Supported](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md) 
 * [Open Source Technologies Used](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md)                 
 
-# Core Repositories
+# Core Capabilities
 To support any iDaaS branded artifact there are a subset of assets avaiable to assist in the implementation : <br/>
 
 | Repository Name | Description |
