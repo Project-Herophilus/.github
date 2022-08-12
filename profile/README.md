@@ -42,7 +42,7 @@ To support any iDaaS branded artifact there are a subset of assets avaiable to a
 | [iDaaS Data Simulators](https://github.com/Project-Herophilus/iDaaS-DataSimulators)| Having data is one aspect, the other is having tooling that can quickly be configured and used to test components. We have developed a data-simulators for our core components, Simulators to help in implementation and testing.  |   
 | [Event Builder](https://github.com/Project-Herophilus/Event-Builder)| A comprehensive library for parsing and building various types of healthcare industry standards based data.|
 
-# Add-Ons Efforts and Supporting Repositories 
+# Supporting Efforts and Repositories 
 To support any iDaaS branded artifact there are a subset of assets avaiable to assist in the implementation : <br/>
 
 | Add-On | Description |
