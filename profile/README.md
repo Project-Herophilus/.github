@@ -36,13 +36,19 @@ Apache 2 licensing.
 As we built this platform out there are an extensive set of capabilities. We have tried to seperate those into categories.
 
 ## General Platform Capabilities
+While there are a ton of very specific features the platform has and use cases it supports there are some very basic
+uniform overall capabilities.
 
-| Capability                                | Details                                                                                                                       |
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Cloud Native Purpose Built Design         | Designed and built from the ground up to run on multiple types of platforms: physical, virtual, devices, and/or public cloud. |
-| Admininstrative Management User Interface | Any integrated asset features a consistent user interface.                                                                    |
-| Event Driven Architecture Focused         | Every platform supports a consistent event driven architecture focused around application and data integration.               |                                                                                                                        |
-| Integrated Auditing                       | A consistent auditing platform and event structure.                                                                           |
+| Capability                                | Details                                                                                                                                        |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cloud Native Purpose Built Design         | Designed and built from the ground up to run on multiple types of platforms: physical, virtual, devices, container based, and/or public cloud. |
+| Admininstrative Management User Interface | Any integrated asset features a consistent user interface.                                                                                     |
+| Event Driven Architecture Focused         | Every platform supports a consistent event driven architecture focused around application and data integration.                                |                                                                                                                        |
+| Integrated Auditing                       | A consistent auditing platform and event structure.                                                                                            |
+| Third Party Tool Support                  | Implementations are able to use third party tools like mapping tools, APIs or other technologies                                               |
+| Configuration Based Platform              | All aspects of the platform are configuration based for ease of extensibility and reuse.                                                       |
+| Industry Connectivity - FHIR Servers      | Several FHIR servers and cloud SaaS are natively supported and have been tested.                                                               |
+| Data Simulators                           | Ability to test implementations with sample data and performance test implementation components                                                |
 
 ## Core Use Cases Supported
 Explaining and exploring use cases are always an exercise in explaining the general data procesisng capabilities and then the
@@ -62,12 +68,22 @@ There are other potentials that can be implemented like ePrescribe. This impleme
 ### Integration Capabilities Support
 All the following capabilities are provided within each repository and/or sub-module as settings or properties.
 
-| Capability                                    | Details             |
-|-----------------------------------------------|---------------------|
-| Automated Conversion to FHIR                  |                     |
-| Terminology Mediation/Management              ||
-| Public Cloud Integration PaaS/SaaS components ||
-| FHIR Data Persistence Tier                    | Coming October 2022 |
+| Capability                                    | Details                                                                     |
+|-----------------------------------------------|-----------------------------------------------------------------------------|
+| Automated Conversion to FHIR                  | HL7v2 and CCDA to FHIR are in place as of 5/2021                            |
+| Terminology Mediation/Management              | Persistence of terms, basic mapping with external vendor API support coming |
+| Public Cloud Integration PaaS/SaaS components | AWS Support as of 7/22, Azure and GCP Efforts being accessed                |
+| FHIR Data Persistence Tier                    | Coming October 2022                                                         |
+
+
+### Mandated Integration Capabilities Support
+All the following capabilities are provided within each repository and/or sub-module as settings or properties.
+
+| Capability                                                                          | Supported Capabilities Repository                                                                                  |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| [CARIN IG](http://build.fhir.org/ig/HL7/carin-bb/)                                  | [iDaaS Connect BlueButton](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-BlueButton) |
+| [Davinci PDEX](http://hl7.org/fhir/us/davinci-pdex/)  | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)             |
+| [US CDI](https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi) | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)                                                                                             | 
 
 ### Scenarios Support
 The following scenarios are enabled by potentially any or all the features above.
