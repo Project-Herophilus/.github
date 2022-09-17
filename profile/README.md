@@ -34,10 +34,14 @@ configuration, testing, legacy and modern data integration, modern application i
 All of these assets are available to any organization. The sole purpose of ALL the capabilities we have built for healthcare 
 is to focus on enabling <b> Data as an Asset</b>
 
+Apart from the links above here are some other key points about our community and what we are working
+towards.
+- We want everyone to join our [community](https://github.com/Project-Herophilus/Project-Herophilus-Assets/edit/main/Platform-Content/General/CodeOfConduct.md) and would love whatever contributions resources are comfortable providing. These 
+could be code, content, project management, executive steering or in the form of many other activities. We hope you
+can help us continually improve in any manner you deem needed.
 - Take a look at the [consulting partners](https://github.com/Project-Herophilus/Project-Herophilus-Assets/blob/main/Platform-Content/Technical/Partner-Implementations.md) that have developed or solution on top of one or more iDaaS components
 - Feel free to look at our [roadmap](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Roadmap/index.md), it is updated monthly
-- All the assets are available and provided "as-is" under Apache 2 licensing.
-
+- All the assets within this project are available and provided "as-is" under [Apache 2 licensing](https://www.apache.org/licenses/LICENSE-2.0).
 
 # Key Overall Project Capabilities Provided 
 As we built this platform out there are an extensive set of capabilities. We have tried to seperate those into categories.
