@@ -4,7 +4,6 @@ of Anatomy. Why would we have chosen this name for our project? Our intent and g
 ways platforms and/or innovation with healthcare data and systems integration can be modernized while introducing integration and 
 application development as side by side efforts. 
 
-# Mission
 Our mission is to be a premier healthcare community focused on enabling healthcare care to solve data 
 challenges and problems. The way we plan on enabling this is through open source. Our decision to be completely open 
 is based on what we have seen in the last decade, open source has powered ALL significant software innovation. 
@@ -16,7 +15,6 @@ in areas such as treatment protocols, safety standards, and industry standards b
 new era driven by consumption and secure managed services it is a perfect time in healthcare for open source and
 healthcare.
 
-# Vision
 The vision, supporting our mission, helps drive data driven open source capabilities into healthcare while 
 demonstrating how healthcare can leverage open source to solve industry problems. In order to deliver our vision and help 
 healthcare it was critical that we define [specific design principles](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/DesignPrinciples.md) 
@@ -32,13 +30,11 @@ and non industry standard data challenges.
 
 At Project Herophilus, we [leverage industry leading open source technologies](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md) 
 to help us bring the most widely adopted and used capabilities to bear. Assets currently available provide tools for 
-configuration, testing, legacy and modern data integration, modern application integration, synthetic data, and more. 
+configuration, testing, legacy and modern data integration, modern application integration, application development, synthetic data, and more. 
 All of these assets are available to any organization. The sole purpose of ALL the capabilities we have built for healthcare 
 is to focus on enabling <b> Data as an Asset</b>
 
-As you think about our mission and vision and look below at all the assets that are available our question to everyone is 
-"who has made more useful capabilities available to any industry?" All the assets are available and provided under 
-Apache 2 licensing.
+Feel free to look at our [roadmap](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Roadmap/index.md), it is updated monthly and remember all the assets are available and provided under Apache 2 licensing.
 
 # Key Overall Project Capabilities Provided 
 As we built this platform out there are an extensive set of capabilities. We have tried to seperate those into categories.
