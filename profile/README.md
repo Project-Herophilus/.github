@@ -1,7 +1,10 @@
 # Background
-Welcome to Project Herophilus, Herophilus was a Greek physician who was an anatomist and credited with being the founder of Anatomy. With anatomy being one of the foundations for medicine,  and since our focus is around enabling/simplifying and empowering data as the core of healthcare we felt 
-this was a very good name for our efforts.
+Welcome to Project Herophilus, Herophilus was a Greek physician who was an anatomist and credited with being the founder 
+of Anatomy. Why would we have chosen this name for our project? Our intent and goal is to lead by example by showing the 
+ways platforms and/or innovation with healthcare data and systems integration can be modernized while introducing integration and 
+application development as side by side efforts. 
 
+# Mission
 Our mission is to be a premier healthcare community focused on enabling healthcare care to solve data 
 challenges and problems. The way we plan on enabling this is through open source. Our decision to be completely open 
 is based on what we have seen in the last decade, open source has powered ALL significant software innovation. 
@@ -13,6 +16,7 @@ in areas such as treatment protocols, safety standards, and industry standards b
 new era driven by consumption and secure managed services it is a perfect time in healthcare for open source and
 healthcare.
 
+# Vision
 The vision, supporting our mission, helps drive data driven open source capabilities into healthcare while 
 demonstrating how healthcare can leverage open source to solve industry problems. In order to deliver our vision and help 
 healthcare it was critical that we define [specific design principles](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/DesignPrinciples.md) 
@@ -20,24 +24,28 @@ to ensure a very [scalable, extensible and reusable architecture](https://github
 with a focus on enabling specific [capabilities](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Capabilities.md). 
 
 What differentiates Project Herophilus is our focus and intent to enable unifying siloed areas life developers, data integration, 
-application integration, data and data scientists with a cohesive ecosystem approach to solving problems. To help with consistency we created a [fictitious organization](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/General/FictitiousOrg.md) and ensure we
+application integration, data and data scientists with a cohesive ecosystem approach to solving problems. To help with 
+consistency we created a [fictitious organization](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/General/FictitiousOrg.md) and ensure we
 can accurately define and relate any solutions being developed. When it comes to data integration there are a set of 
 [industry based integration standards support](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md) 
 and non industry standard data challenges.
+
 At Project Herophilus, we [leverage industry leading open source technologies](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md) 
-to help us bring the most widely adopted and used capabilities to bear. Assets currently available provide tools for configuration, testing, legacy and modern data integration, modern application integration, synthetic data, and more. All of these assets are available to any organization. The sole purpose of ALL the capabilities we have built for healthcare  
+to help us bring the most widely adopted and used capabilities to bear. Assets currently available provide tools for 
+configuration, testing, legacy and modern data integration, modern application integration, synthetic data, and more. 
+All of these assets are available to any organization. The sole purpose of ALL the capabilities we have built for healthcare 
 is to focus on enabling <b> Data as an Asset</b>
 
 As you think about our mission and vision and look below at all the assets that are available our question to everyone is 
 "who has made more useful capabilities available to any industry?" All the assets are available and provided under 
 Apache 2 licensing.
 
-# Key Capabilities Provided 
+# Key Overall Project Capabilities Provided 
 As we built this platform out there are an extensive set of capabilities. We have tried to seperate those into categories.
 
-## General Platform Capabilities
-While there are a ton of very specific features the platform has and use cases it supports there are some very basic
-uniform overall capabilities.
+## Healthcare Integration Capabilities
+While there are a ton of very specific features and capabilities provided the platform and use cases it supports there 
+are some very basic overall capabilities.
 
 | Capability                                | Details                                                                                                                                        |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -50,22 +58,18 @@ uniform overall capabilities.
 | Industry Connectivity - FHIR Servers      | Several FHIR servers and cloud SaaS are natively supported and have been tested.                                                               |
 | Data Simulators                           | Ability to test implementations with sample data and performance test implementation components                                                |
 
-## Core Use Cases Supported
-Explaining and exploring use cases are always an exercise in explaining the general data processing capabilities and then the
-features provided to help fulfill business needs.
-
 ### Data Integration Standards Support
 
-| Capability | Details                                                                                                                                                                                                                                                                                  |
-|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| HL7 v2     | Ability to process the 9 most common HL7 v2x messages from any vendor using Files, MLLP, or HTTP are supported. Specific details can be found [here](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md) |
-| CCDA       | Ability to process the CCDA messages from any vendor using Files, or HTTP are supported.                                                                                                                                                                                                 |
-| FHIR       | Ability to process all FHIR Resources from any vendor using Files, or HTTP are supported. Specific details can be found [here](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md)                       |
-| EDI        | Ability to process all EDI 5010 transactions from any vendor using Files, or HTTP are supported.                                                                                                                                                                                         |
+| Industry Std. | Details                                                                                                                                                                                                                                                                                  |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HL7 v2        | Ability to process the 9 most common HL7 v2x messages from any vendor using Files, MLLP, or HTTP are supported. Specific details can be found [here](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md) |
+| CCDA          | Ability to process the CCDA messages from any vendor using Files, or HTTP are supported.                                                                                                                                                                                                 |
+| FHIR          | Ability to process all FHIR Resources from any vendor using Files, or HTTP are supported. Specific details can be found [here](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md)                       |
+| EDI           | Ability to process all EDI 5010 transactions from any vendor using Files, or HTTP are supported.                                                                                                                                                                                         |
 
 There are other potentials that can be implemented like ePrescribe. This implementation would be similar to EDI.
 
-### Integration Capabilities Support
+### Core Capabilities Support
 All the following capabilities are provided within each repository and/or sub-module as settings or properties.
 
 | Capability                                    | Details                                                                     |
@@ -79,47 +83,65 @@ All the following capabilities are provided within each repository and/or sub-mo
 ### Mandated Integration Capabilities Support
 All the following capabilities are provided within each repository and/or sub-module as settings or properties.
 
-| Capability                                                                          | Supported Capabilities Repository                                                                                  |
-|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [CARIN IG](http://build.fhir.org/ig/HL7/carin-bb/)                                  | [iDaaS Connect BlueButton](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-BlueButton) |
-| [Davinci PDEX](http://hl7.org/fhir/us/davinci-pdex/)  | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)             |
+| Capability                                                                            | Supported Capabilities Repository                                                                                  |
+|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| [CARIN IG](http://build.fhir.org/ig/HL7/carin-bb/)                                    | [iDaaS Connect BlueButton](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-BlueButton) |
+| [Davinci PDEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)             |
+| [Davinci DGEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)             |
 | [US CDI](https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi) | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)                                                                                             | 
 
-### Scenarios Support
+#### Mandated Integration Capabilities Under Review
+The following capabilities being evaluated for implementation into the core capabilities we provide.
+
+
+| Capability                                           |
+|------------------------------------------------------|
+| [Davinci CDEX](http://hl7.org/fhir/us/davinci-cdex/history.html) |
+
+
+### Key Scenarios Support
 The following scenarios are enabled by potentially any or all the features above.
 
-| Capability                  | Details                                                                                                                                                   |
-|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Capability                  | Details                                                                                                                                                    |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | FHIR R4 Support             | Currently supports all FHIR resources processing. This can be to public cloud or on premise FHIR servers or not. All based on configuration settings used. |
-| SMART on FHIR Support       | Coming November 2022                                                                                                                                      |
-| CDS Hooks                   | Coming November 2022                                                                                                                                      |
-| Health Plan Price Transparency | Coming November 2022                                                                                                                                      |
-| SDOH Data Support           | Coming December 2022                                                                                                                                      |
-| Sharing dynamic data        | Coming December 2022                                                                                                                                      |
+| SMART on FHIR Support       | Coming November 2022                                                                                                                                       |
+| CDS Hooks                   | Coming November 2022                                                                                                                                       |
+| Health Plan Price Transparency | Coming December 2022                                                                                                                                       |
+| SDOH Data Support           | Coming December 2022                                                                                                                                       |
+| Sharing dynamic data        | Coming December 2022                                                                                                                                       |
 
-# Repository Details
-To support any iDaaS branded artifact there are a subset of assets available to assist in the implementation : <br/>
-
-## Base Repositories 
+### Base Repositories 
 These repositories will help with core implementation needs.
 
 | Repository Name | Description |
 | ------ | ------------|
 |[iDaaS Connect](https://github.com/Project-Herophilus/iDaaS-Connect)|Connecting to all types of data and providing access to information in near realtime. It is intended to be a comprehensive set of design patterns, reference architecture, accelerators to help anyone and supports hundreds of connectors from legacy to modern connectivity to industry standards to various public clouds connectivity needs.|
-|[iDaaS DREaM](https://github.com/Project-Herophilus/iDaaS-DREAM)|Assets designed from multiple technologies that serve a variety of purposes from routing of data to data transformation to business driven data assets.|
 |[iDaaS KIC](https://github.com/Project-Herophilus/iDaaS-KIC)|Knowledge, Insight and Conformance is all about providing the ability to process errors, audit and other data. This consists of the endpoints, processing and persistence needed to support the platform.|
-| [iDaaS Data Simulators](https://github.com/Project-Herophilus/iDaaS-DataSimulators)| Having data is one aspect, the other is having tooling that can quickly be configured and used to test components. We have developed data-simulators for our core components, Simulators to help in implementation and testing.  |   
-| [Event Builder](https://github.com/Project-Herophilus/Event-Builder)| A comprehensive library for parsing and building various types of healthcare industry standards based data.|
+|[iDaaS Data Simulators](https://github.com/Project-Herophilus/iDaaS-DataSimulators)| Having data is one aspect, the other is having tooling that can quickly be configured and used to test components. We have developed data-simulators for our core components, Simulators to help in implementation and testing.  |   
 
-## Supporting Efforts and Repositories 
-To support any artifact there are a subset of assets available to assist in the implementation : <br/>
+## Application Development Capabilities
+While there are a ton of very specific features and capabilities provided the platform and use cases it supports there
+
+### Supporting Repositories 
+Custome application development efforts that support leveraging existing integrated assets are available to assist 
+provide additional capabilities for any implementation : <br/>
+
+| Repository Name                                                                             | Description |
+|--------------------------------------------| ------------|
+| [Event Builder](https://github.com/Project-Herophilus/Event-Builder)| A comprehensive library for parsing and building various types of healthcare industry standards based data.|
+| [iDaaS DREaM](https://github.com/Project-Herophilus/iDaaS-DREAM)                            |Assets designed from multiple technologies that serve a variety of purposes from routing of data to data transformation to business driven data assets.|
+| [Synthetic Data](https://github.com/Project-Herophilus/DataSynthesis)                       | When it comes to building or testing assets, having lots of data to resemble your production data is critical, it also helps drive innovation. We have open sourced a synthetic data platform and continue to enhance it based on feedback. It currently contains over 18 billion specific data attributes that can be used |
+| [De-Identification or Anonymization of Data](https://github.com/Project-Herophilus/Defianz) |Providing the capability to de-identify or anonymize data |
+
+## Other Repositories
+Here are some other repositories our project offers to help support all the assets provided.
 
 | Add-On | Description |
 | ------ | ------------|
 | [Project Herophilus Technical Content](https://github.com/Project-Herophilus/Project-Herophilus-Assets) | Variety of content specific to iDaaS - PowerPoints, Word Docs, and Draw.IO diagrams|
 | [Test Data](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Testing)  | Test data for all healthcare industry standards work|
-| [Synthetic Data](https://github.com/Project-Herophilus/DataSynthesis)| When it comes to building or testing assets, having lots of data to resemble your production data is critical, it also helps drive innovation. We have open sourced a synthetic data platform and continue to enhance it based on feedback. It currently contains over 18 billion specific data attributes that can be used |
-| [De-Identification or Anonymization of Data](https://github.com/Project-Herophilus/Defianz)|Providing the capability to de-identify or anonymize data |
+
 
 # Key Links
 Below are some key links that are contained within the content. We wanted to provide a section for some common and consistent critical content areas:
