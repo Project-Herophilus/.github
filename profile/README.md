@@ -93,9 +93,9 @@ All the following capabilities are provided within each repository and/or sub-mo
 #### Mandated Integration Capabilities Under Review
 The following capabilities being evaluated for implementation into the core capabilities we provide.
 
-
-| Capability                                           |
-|------------------------------------------------------|
+| Capability                                                       |
+|------------------------------------------------------------------|
+| [Davinci DQEX](https://build.fhir.org/ig/HL7/davinci-deqm/) |
 | [Davinci CDEX](http://hl7.org/fhir/us/davinci-cdex/history.html) |
 
 
