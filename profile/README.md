@@ -34,7 +34,10 @@ configuration, testing, legacy and modern data integration, modern application i
 All of these assets are available to any organization. The sole purpose of ALL the capabilities we have built for healthcare 
 is to focus on enabling <b> Data as an Asset</b>
 
-Feel free to look at our [roadmap](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Roadmap/index.md), it is updated monthly and remember all the assets are available and provided under Apache 2 licensing.
+- Take a look at the [consulting partners](https://github.com/Project-Herophilus/Project-Herophilus-Assets/blob/main/Platform-Content/Technical/Partner-Implementations.md) that have developed or solution on top of one or more iDaaS components
+- Feel free to look at our [roadmap](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Roadmap/index.md), it is updated monthly
+- All the assets are available and provided "as-is" under Apache 2 licensing.
+
 
 # Key Overall Project Capabilities Provided 
 As we built this platform out there are an extensive set of capabilities. We have tried to seperate those into categories.
@@ -138,14 +141,4 @@ Here are some other repositories our project offers to help support all the asse
 | [Project Herophilus Technical Content](https://github.com/Project-Herophilus/Project-Herophilus-Assets) | Variety of content specific to iDaaS - PowerPoints, Word Docs, and Draw.IO diagrams|
 | [Test Data](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Testing)  | Test data for all healthcare industry standards work|
 
-
-# Key Links
-Below are some key links that are contained within the content. We wanted to provide a section for some common and consistent critical content areas:
-
-* [Fictitious Organization](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/General/FictitiousOrg.md)
-* [Design Principles](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/DesignPrinciples.md)
-* [Reusable Architecture](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Architecture.md)
-* [Capabilities](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Capabilities.md)
-* [Integration Standards Supported](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md)
-* [Open Source Technologies Used](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md)                 
-
+             
