@@ -42,6 +42,8 @@ can help us continually improve in any manner you deem needed.
 - Take a look at the [consulting partners](https://github.com/Project-Herophilus/Project-Herophilus-Assets/blob/main/Platform-Content/Technical/Partner-Implementations.md) that have developed or solution on top of one or more iDaaS components
 - Feel free to look at our [roadmap](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Roadmap/index.md), it is updated monthly
 - All the assets within this project are available and provided "as-is" under [Apache 2 licensing](https://www.apache.org/licenses/LICENSE-2.0).
+- To help and continue improving implementation expericence we have a series of implementation guides developed, please start [here]
+(https://github.com/Project-Herophilus/Project-Herophilus-Assets/blob/main/Platform-Content/ImplementationGuides/intro.md) to get some instructions on how to implement.
 
 # Key Overall Project Capabilities Provided 
 As we built this platform out there are an extensive set of capabilities. We have tried to seperate those into categories.
