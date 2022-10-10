@@ -47,7 +47,7 @@ can help us continually improve in any manner you deem needed.
 # Key Overall Project Capabilities Provided 
 As we built this platform out there are an extensive set of capabilities. We have tried to seperate those into categories.
 
-## Healthcare Integration Capabilities
+## Data Integration Capabilities
 While there are a ton of very specific features and capabilities provided the platform and use cases it supports there 
 are some very basic overall capabilities.
 
@@ -81,11 +81,13 @@ All the following capabilities are provided within each repository and/or sub-mo
 | Automated Conversion to FHIR                  | HL7v2 and CCDA to FHIR are in place as of 5/2021                            |
 | Terminology Mediation/Management              | Persistence of terms, basic mapping with external vendor API support coming |
 | Public Cloud Integration PaaS/SaaS components | AWS Support as of 7/22, Azure and GCP Efforts being accessed                |
-| FHIR Data Persistence Tier                    | Coming October 2022                                                         |
+| FHIR Data Persistence Tier                    | Coming November 2022                                                         |
 
 
 ### Mandated Integration Capabilities Support
-All the following capabilities are provided within each repository and/or sub-module as settings or properties.
+All the following capabilities are provided within each repository and/or sub-module as settings or properties. Keep in mind this is a general
+platform so there is NOT 100 percent build out of comprehensive support. In some cases the components are in place but need to be stictched into
+industry or implementation offerings. This allows the greatest flexibility and extensibility.
 
 | Capability                                                                            | Supported Capabilities Repository                                                                                  |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -109,11 +111,11 @@ The following scenarios are enabled by potentially any or all the features above
 | Capability                  | Details                                                                                                                                                    |
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | FHIR R4 Support             | Currently supports all FHIR resources processing. This can be to public cloud or on premise FHIR servers or not. All based on configuration settings used. |
-| SMART on FHIR Support       | Coming November 2022                                                                                                                                       |
-| CDS Hooks                   | Coming November 2022                                                                                                                                       |
-| Health Plan Price Transparency | Coming December 2022                                                                                                                                       |
-| SDOH Data Support           | Coming December 2022                                                                                                                                       |
-| Sharing dynamic data        | Coming December 2022                                                                                                                                       |
+| SMART on FHIR Support       | Projected Community contribution - Coming November 2022                                                                                                                                       |
+| CDS Hooks                   | Projected Community contribution - Coming November 2022                                                                                                                                       |
+| Health Plan Price Transparency | Projected Community contribution - Coming December 2022                                                                                                                                       |
+| SDOH Data Support           | Projected Community contribution - Coming December 2022                                                                                                                                       |
+| Sharing dynamic data        | Projected Community contribution - Coming December 2022                                                                                                                                       |
 
 ### Base Repositories 
 These repositories will help with core implementation needs.
