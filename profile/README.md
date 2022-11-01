@@ -111,10 +111,11 @@ The following scenarios are enabled by potentially any or all the features above
 | Capability                  | Details                                                                                                                                                    |
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | FHIR R4 Support             | Currently supports all FHIR resources processing. This can be to public cloud or on premise FHIR servers or not. All based on configuration settings used. |
-| Health Plan Price Transparency | Projected Community contribution - Coming December 2022                                                                                                                                       |
-| SDOH Data Support           | Projected Community contribution - Coming December 2022                                                                                                                                       |
-| Sharing dynamic data        | Projected Community contribution - Coming December 2022                                                                 | SMART on FHIR Support       | Projected Community contribution - Coming January 2023                         |                                                                                                              |
-| CDS Hooks                   | Projected Community contribution - Coming January 2023                                                                                                                                       |                                                                    
+| Health Plan Price Transparency | Projected Community contribution - Coming December 2022                     |
+| SDOH Data Support           | Projected Community contribution - Coming December 2022                        |
+| Sharing dynamic data        | Projected Community contribution - Coming December 2022                        |
+| SMART on FHIR Support       | Projected Community contribution - Coming January 2023                         |                                         
+| CDS Hooks                   | Projected Community contribution - Coming January 2023                         |                                                                    
 
 ### Base Repositories 
 These repositories will help with core implementation needs.
