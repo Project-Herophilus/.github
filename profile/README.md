@@ -91,9 +91,9 @@ industry or implementation offerings. This allows the greatest flexibility and e
 
 | Capability                                                                            | Supported Capabilities Repository                                                                                  |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [CARIN IG](http://build.fhir.org/ig/HL7/carin-bb/)                                    | [iDaaS Connect BlueButton](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-BlueButton) |
-| [Davinci PDEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)             |
-| [Davinci DGEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)             |
+| [CARIN IG](http://build.fhir.org/ig/HL7/carin-bb/)                                    | [iDaaS Connect BlueButton](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-blue-button) |
+| [Davinci PDEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
+| [Davinci DGEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
 | [US CDI](https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi) | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)                                                                                             | 
 
 #### Mandated Integration Capabilities Under Review
