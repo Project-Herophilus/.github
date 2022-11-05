@@ -91,8 +91,8 @@ industry or implementation centric offerings that partner/customer already have 
 
 | Capability                                                                            | Supported Capabilities Repository                                                                                  |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [CARIN IG](http://build.fhir.org/ig/HL7/carin-bb/)                                    | [iDaaS Connect CMS-BlueButton](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-blue-button) |
-| [Davinci CDEX](http://hl7.org/fhir/us/davinci-pdex/](http://hl7.org/fhir/us/davinci-cdex/history.html)| [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
+| [CARIN IG](http://build.fhir.org/ig/HL7/carin-bb/)                                    | [iDaaS Connect CMS-BlueButton](https://github.com/Project-Herophilus/iDaaS/Connect/tree/main/cms-blue-button) |
+| [Davinci CDEX](http://hl7.org/fhir/us/davinci-cdex/history.html) | [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
 | [Davinci DGEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
 | [Davinci PDEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
 | [US CDI](https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi) | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)                                                                                             | 
