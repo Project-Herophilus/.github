@@ -87,23 +87,15 @@ All the following capabilities are provided within each repository and/or sub-mo
 ### Mandated Integration Capabilities Support
 All the following capabilities are provided within each repository and/or sub-module as settings or properties. Keep in mind this is a general
 platform so there is NOT 100 percent build out of comprehensive support. In some cases the components are in place but need to be stictched into
-industry or implementation offerings. This allows the greatest flexibility and extensibility.
+industry or implementation centric offerings that partner/customer already have running. This allows the greatest flexibility and extensibility.
 
 | Capability                                                                            | Supported Capabilities Repository                                                                                  |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [CARIN IG](http://build.fhir.org/ig/HL7/carin-bb/)                                    | [iDaaS Connect CMS-BlueButton](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-blue-button) |
-| [Davinci PDEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
+| [Davinci CDEX]([http://hl7.org/fhir/us/davinci-pdex/](http://hl7.org/fhir/us/davinci-cdex/history.html)| [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
 | [Davinci DGEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
+| [Davinci PDEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
 | [US CDI](https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi) | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)                                                                                             | 
-
-#### Mandated Integration Capabilities Under Review
-The following capabilities being evaluated for implementation into the core capabilities we provide.
-
-| Capability                                                       |
-|------------------------------------------------------------------|
-| [Davinci DQEX](https://build.fhir.org/ig/HL7/davinci-deqm/) |
-| [Davinci CDEX](http://hl7.org/fhir/us/davinci-cdex/history.html) |
-
 
 ### Key Scenarios Support
 The following scenarios are enabled by potentially any or all the features above.
