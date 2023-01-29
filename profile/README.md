@@ -21,18 +21,16 @@ healthcare it was critical that we define [specific design principles](https://g
 to ensure a very [scalable, extensible and reusable architecture](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Architecture.md) 
 with a focus on enabling specific [capabilities](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Capabilities.md). 
 
-What differentiates Project Herophilus is our focus and intent to enable unifying siloed areas life developers, data integration, 
-application integration, data and data scientists with a cohesive ecosystem approach to solving problems. To help with 
-consistency we created a [fictitious organization](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/General/FictitiousOrg.md) and ensure we
-can accurately define and relate any solutions being developed. When it comes to data integration there are a set of 
+What differentiates Project Herophilus is our focus and intent to enable unifying siloed areas like application developers, data integration, 
+application integration, data analysts, and data scientists with a consistent approach to solving problems. To help with 
+consistency we created a [fictitious organization](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/General/FictitiousOrg.md) and ensure we can accurately define and relate any solutions being developed. When it comes to data integration there are a set of 
 [industry based integration standards support](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md) 
 and non industry standard data challenges.
 
-At Project Herophilus, we [leverage industry leading open source technologies](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md) 
-to help us bring the most widely adopted and used capabilities to bear. Assets currently available provide tools for 
+Our goal is to [leverage industry leading open source technologies](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md) to help us bring the most widely adopted and used capabilities. Assets currently available provide tools for 
 configuration, testing, legacy and modern data integration, modern application integration, application development, synthetic data, and more. 
 All of these assets are available to any organization. The sole purpose of ALL the capabilities we have built for healthcare 
-is to focus on enabling <b> Data as an Asset</b>
+is to focus on enabling <b> Data is the Asset</b>
 
 Apart from the links above here are some other key points about our community and what we are working
 towards.
@@ -96,18 +94,6 @@ industry or implementation centric offerings that partner/customer already have 
 | [Davinci DGEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
 | [Davinci PDEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
 | [US CDI](https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi) | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)                                                                                             | 
-
-### Key Scenarios Support
-The following scenarios are enabled by potentially any or all the features above.
-
-| Capability                  | Details                                                                                                                                                    |
-|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| FHIR R4 Support             | Currently supports all FHIR resources processing. This can be to public cloud or on premise FHIR servers or not. All based on configuration settings used. |
-| Health Plan Price Transparency | Projected Community contribution - Coming December 2022                     |
-| SDOH Data Support           | Projected Community contribution - Coming December 2022                        |
-| Sharing dynamic data        | Projected Community contribution - Coming December 2022                        |
-| SMART on FHIR Support       | Projected Community contribution - Coming January 2023                         |                                         
-| CDS Hooks                   | Projected Community contribution - Coming January 2023                         |                                                                    
 
 ### Base Repositories 
 These repositories will help with core implementation needs.
