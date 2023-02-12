@@ -5,32 +5,27 @@ ways platforms and/or innovation with healthcare data and systems integration ca
 application development as side by side efforts. 
 
 Our mission is to be a premier healthcare community focused on enabling healthcare care to solve data 
-challenges and problems. The way we plan on enabling this is through open source. Our decision to be completely open 
+challenges and problems. The sole purpose of ALL the capabilities we have built for healthcare
+is to focus on enabling <b> Data is the Asset</b> Everything we do is all intended to fall under what we have branded Healthcare Data Foundation (HDF). The way we plan on enabling this is through open source. Our decision to be completely open 
 is based on what we have seen in the last decade, open source has powered ALL significant software innovation. 
 Here is a <a href="https://www.redhat.com/rhdc/managed-files/rh-enterprise-open-source-report-f27565-202101-en.pdf" target="_blank">report</a> 
 that showcases all the various ways open source and it's culture are transforming its importance to enterprises and the way 
-new innovation is being delivered. While there are many industries that have benefited from opensource there is no 
+new innovation is being delivered. While there are many industries that have benefited from open source there is no 
 industry that has potentially benefited more than Healthcare. For many decades it has also relied upon community development 
 in areas such as treatment protocols, safety standards, and industry standards based data formats. Now, as we head into a 
 new era driven by consumption and secure managed services it is a perfect time in healthcare for open source and
-healthcare.
+healthcare.  Our goal is to [leverage industry leading open source technologies](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md) to help us bring the most widely adopted and used capabilities. Assets currently available provide tools for
+configuration, testing, legacy and modern data integration, modern application integration, application development, synthetic data, and more.
+All of these assets are available to any organization.
 
 The vision, supporting our mission, helps drive data driven open source capabilities into healthcare while 
 demonstrating how healthcare can leverage open source to solve industry problems. In order to deliver our vision and help 
 healthcare it was critical that we define [specific design principles](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/DesignPrinciples.md) 
 to ensure a very [scalable, extensible and reusable architecture](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Architecture.md) 
 with a focus on enabling specific [capabilities](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/Capabilities.md). 
-
-What differentiates Project Herophilus is our focus and intent to enable unifying siloed areas like application developers, data integration, 
-application integration, data analysts, and data scientists with a consistent approach to solving problems. To help with 
-consistency we created a [fictitious organization](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/General/FictitiousOrg.md) and ensure we can accurately define and relate any solutions being developed. When it comes to data integration there are a set of 
+To help us better tell the industry challenges better we created a [fictitious organization](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/General/FictitiousOrg.md) and ensure we can accurately define and relate any solutions being developed. When it comes to data integration there are a set of 
 [industry based integration standards support](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Design/IntegrationStandardsSupported.md) 
 and non industry standard data challenges.
-
-Our goal is to [leverage industry leading open source technologies](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md) to help us bring the most widely adopted and used capabilities. Assets currently available provide tools for 
-configuration, testing, legacy and modern data integration, modern application integration, application development, synthetic data, and more. 
-All of these assets are available to any organization. The sole purpose of ALL the capabilities we have built for healthcare 
-is to focus on enabling <b> Data is the Asset</b>
 
 Apart from the links above here are some other key points about our community and what we are working
 towards.
@@ -61,6 +56,8 @@ are some very basic overall capabilities.
 | Data Simulators                           | Ability to test implementations with sample data and performance test implementation components                                                |
 
 ### Data Integration Standards Support
+While the capabilities we provide are very specific to healthcare industry needs we also have very
+base level support for capabilities like files, relational databases and other data needs that are very commonly used.
 
 | Industry Std. | Details                                                                                                                                                                                                                                                                                  |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
