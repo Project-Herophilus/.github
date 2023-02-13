@@ -44,16 +44,16 @@ As we built this platform out there are an extensive set of capabilities. We hav
 While there are a ton of very specific features and capabilities provided the platform and use cases it supports there 
 are some very basic overall capabilities.
 
-| Capability                                | Details                                                                                                                                        |
-|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Capability                                | Details                                                                                                                                   |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | Cloud Native Purpose Built Design         | Designed and built from the ground up to run on multiple types of platforms: physical, virtual, devices, container based, and/or public cloud. |
-| Administrative Management User Interface | Any integrated asset features a consistent user interface.                                                                                     |
-| Event Driven Architecture Focused         | Every platform supports a consistent event driven architecture focused around application and data integration.                                |                                                                                                                        |
-| Integrated Auditing                       | A consistent auditing platform and event structure.                                                                                            |
-| Third Party Tool Support                  | Implementations are able to use third party tools like mapping tools, APIs or other technologies                                               |
-| Configuration Based Platform              | All aspects of the platform are configuration based for ease of extensibility and reuse.                                                       |
-| Industry Connectivity - FHIR Servers      | Several FHIR servers and cloud SaaS are natively supported and have been tested.                                                               |
-| Data Simulators                           | Ability to test implementations with sample data and performance test implementation components                                                |
+| Administrative Management User Interface | Any integration based asset features a consistent management interface.                                                                   |
+| Event Driven Architecture Focused         | Every platform supports a consistent event driven architecture focused around application and data integration.                           |                                                                                                                        |
+| Integrated Auditing                       | A consistent auditing platform and event structure.                                                                                       |
+| Third Party Tool Support                  | Implementations are able to use third party tools like mapping tools, APIs or other technologies                                          |
+| Configuration Based Platform              | All aspects of the platform are configuration based for ease of extensibility and reuse.                                                  |
+| Industry Connectivity - FHIR Servers      | Several FHIR servers and cloud SaaS are natively supported and have been tested.                                                          |
+| Data Simulators                           | Ability to test implementations with sample data and performance test implementation components                                           |
 
 ### Data Integration Standards Support
 While the capabilities we provide are very specific to healthcare industry needs we also have very
@@ -68,55 +68,52 @@ base level support for capabilities like files, relational databases and other d
 
 There are other potentials that can be implemented like ePrescribe. This implementation would be similar to EDI.
 
-### Core Capabilities Support
+### Core Integration Capabilities Support
 All the following capabilities are provided within each repository and/or sub-module as settings or properties.
 
-| Capability                                    | Details                                                                     |
-|-----------------------------------------------|-----------------------------------------------------------------------------|
-| Automated Conversion to FHIR                  | HL7v2 and CCDA to FHIR are in place as of 5/2021                            |
-| Terminology Mediation/Management              | Persistence of terms, basic mapping with external vendor API support coming |
-| Public Cloud Integration PaaS/SaaS components | AWS Support as of 7/22, Azure and GCP Efforts being accessed                |
-| FHIR Data Persistence Tier                    | Coming November 2022                                                         |
-
+| Capability                                    | Details                                                                                                           |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Automated Conversion to FHIR                  | HL7v2 and CCDA to FHIR are in place as of 5/2021                                                                  |
+| Terminology Mediation/Management              | Persistence of terms, basic mapping with external vendor API support coming                                       |
+| Public Cloud Integration PaaS/SaaS components | AWS Support as of 7/22, Azure and GCP efforts coming soon                                                         |
+| Data Tier SaaS Support                        | Enables implementation based capabilities to work with SaaS data providers like SnowFlake, MongoDB and DataBricks |
 
 ### Mandated Integration Capabilities Support
 All the following capabilities are provided within each repository and/or sub-module as settings or properties. Keep in mind this is a general
 platform so there is NOT 100 percent build out of comprehensive support. In some cases the components are in place but need to be stictched into
 industry or implementation centric offerings that partner/customer already have running. This allows the greatest flexibility and extensibility.
 
-| Capability                                                                            | Supported Capabilities Repository                                                                                  |
-|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [CARIN IG](http://build.fhir.org/ig/HL7/carin-bb/)                                    | [iDaaS Connect CMS-BlueButton](https://github.com/Project-Herophilus/iDaaS/Connect/tree/main/cms-blue-button) |
-| [Davinci CDEX](http://hl7.org/fhir/us/davinci-cdex/history.html) | [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
-| [Davinci DGEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
-| [Davinci PDEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [iDaaS Connect CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability)             |
-| [US CDI](https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi) | [iDaaS Connect FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)                                                                                             | 
+| Capability                                                                            | Supported Capabilities Repository                                                                    |
+|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [CARIN IG](http://build.fhir.org/ig/HL7/carin-bb/)                                    | [CMS-BlueButton](https://github.com/Project-Herophilus/iDaaS/Connect/tree/main/cms-blue-button) |
+| [Davinci CDEX](http://hl7.org/fhir/us/davinci-cdex/history.html) | [CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability) |
+| [Davinci DGEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability) |
+| [Davinci PDEX](http://hl7.org/fhir/us/davinci-pdex/)                                  | [CMS-Interoperability](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/cms-interoperability) |
+| [US CDI](https://www.healthit.gov/isa/united-states-core-data-interoperability-uscdi) | [FHIR](https://github.com/Project-Herophilus/iDaaS-Connect/tree/main/iDaaS-Connect-FHIR)                                     | 
 
-### Base Repositories 
-These repositories will help with core implementation needs.
+### Integration Repositories 
+These repositories will help with integration specific needs.
 
 | Repository Name | Description |
 | ------ | ------------|
-|[iDaaS Connect](https://github.com/Project-Herophilus/iDaaS-Connect)|Connecting to all types of data and providing access to information in near realtime. It is intended to be a comprehensive set of design patterns, reference architecture, accelerators to help anyone and supports hundreds of connectors from legacy to modern connectivity to industry standards to various public clouds connectivity needs.|
+|[Integration Framework for HDF](https://github.com/Project-Herophilus/iDaaS-Connect)|Connecting to all types of data and providing access to information in near realtime. It is intended to be a comprehensive set of design patterns, reference architecture, accelerators to help anyone and supports hundreds of connectors from legacy to modern connectivity to industry standards to various public clouds connectivity needs.|
 |[iDaaS KIC](https://github.com/Project-Herophilus/iDaaS-KIC)|Knowledge, Insight and Conformance is all about providing the ability to process errors, audit and other data. This consists of the endpoints, processing and persistence needed to support the platform.|
+|[Data Simulators](https://github.com/Project-Herophilus/DataSimulators)| Having data is one aspect, the other is having tooling that can quickly be configured and used to test components. We have developed data-simulators for our core components, Simulators to help in implementation and testing.  |   
 
-## Application Development Capabilities
-While there are a ton of very specific features and capabilities provided the platform and use cases it supports there
+## Application Development Repositories
+There is a wide variety of application development and integration capabilities that we have provided. Below are the specific 
+repositories that exist.
+
+| Repository Name                                                                             | Description |
+|--------------------------------------------| ------------|
+|[Event Builder](https://github.com/Project-Herophilus/Event-Builder)| A comprehensive library for parsing and building various types of healthcare industry standards based data.|
+| [Application Framework for HDF](https://github.com/Project-Herophilus/iDaaS-DREAM)                            |Assets designed from multiple technologies that serve a variety of purposes from routing of data to data transformation to business driven data assets.|
+| [Synthetic Data](https://github.com/Project-Herophilus/DataSynthesis)                       | When it comes to building or testing assets, having lots of data to resemble your production data is critical, it also helps drive innovation. We have open sourced a synthetic data platform and continue to enhance it based on feedback. It currently contains over 18 billion specific data attributes that can be used |
+| [De-Identification or Anonymization of Data](https://github.com/Project-Herophilus/Defianz) |Providing the capability to de-identify or anonymize data |
 
 ### Supporting Repositories 
 Customer application development efforts that support leveraging existing integrated assets are available to assist 
 provide additional capabilities for any implementation : <br/>
-
-| Repository Name                                                                             | Description |
-|--------------------------------------------| ------------|
-|[Data Simulators](https://github.com/Project-Herophilus/DataSimulators)| Having data is one aspect, the other is having tooling that can quickly be configured and used to test components. We have developed data-simulators for our core components, Simulators to help in implementation and testing.  |   
-|[Event Builder](https://github.com/Project-Herophilus/Event-Builder)| A comprehensive library for parsing and building various types of healthcare industry standards based data.|
-| [iDaaS DREaM](https://github.com/Project-Herophilus/iDaaS-DREAM)                            |Assets designed from multiple technologies that serve a variety of purposes from routing of data to data transformation to business driven data assets.|
-| [Synthetic Data](https://github.com/Project-Herophilus/DataSynthesis)                       | When it comes to building or testing assets, having lots of data to resemble your production data is critical, it also helps drive innovation. We have open sourced a synthetic data platform and continue to enhance it based on feedback. It currently contains over 18 billion specific data attributes that can be used |
-| [De-Identification or Anonymization of Data](https://github.com/Project-Herophilus/Defianz) |Providing the capability to de-identify or anonymize data |
-
-## Other Repositories
-Here are some other repositories our project offers to help support all the assets provided.
 
 | Add-On | Description |
 | ------ | ------------|
