@@ -104,12 +104,12 @@ These repositories will help with integration specific needs.
 There is a wide variety of application development and integration capabilities that we have provided. Below are the specific 
 repositories that exist.
 
-| Repository Name                                                                                        | Description |
-|--------------------------------------------------------------------------------------------------------| ------------|
-| [Event Builder](https://github.com/Project-Herophilus/Event-Builder)                                   | A comprehensive library for parsing and building various types of healthcare industry standards based data.|
-| [Application Framework for HDF](https://github.com/Project-Herophilus/iDaaS-DREAM)                     |Assets designed from multiple technologies that serve a variety of purposes from routing of data to data transformation to business driven data assets.|
-| [Synthetic Data](https://github.com/Project-Herophilus/DataSynthesis)                                  | When it comes to building or testing assets, having lots of data to resemble your production data is critical, it also helps drive innovation. We have open sourced a synthetic data platform and continue to enhance it based on feedback. It currently contains over 18 billion specific data attributes that can be used |
-| [ Defianz (De-Identification or Anonymization of Data)](https://github.com/Project-Herophilus/Defianz) |Providing the capability to de-identify or anonymize data |
+| Repository Name                                                                                       | Description |
+|-------------------------------------------------------------------------------------------------------| ------------|
+| [Application Framework for HDF](https://github.com/Project-Herophilus/ApplicationFramework-HDF)       |Assets designed from multiple technologies that serve a variety of purposes from routing of data to data transformation to business driven data assets.|
+| [Defianz (De-Identification or Anonymization of Data)](https://github.com/Project-Herophilus/Defianz) |Providing the capability to de-identify or anonymize data |
+| [Event Builder](https://github.com/Project-Herophilus/Event-Builder)                                  | A comprehensive library for parsing and building various types of healthcare industry standards based data.|
+| [Synthetic Data](https://github.com/Project-Herophilus/DataSynthesis)                                 | When it comes to building or testing assets, having lots of data to resemble your production data is critical, it also helps drive innovation. We have open sourced a synthetic data platform and continue to enhance it based on feedback. It currently contains over 18 billion specific data attributes that can be used |
 
 ### Supporting Repositories 
 Customer application development efforts that support leveraging existing integrated assets are available to assist 
