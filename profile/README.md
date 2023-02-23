@@ -44,7 +44,7 @@ As we built this platform out there are an extensive set of capabilities. We hav
 While there are a ton of very specific features and capabilities provided the platform and use cases it supports there 
 are some very basic overall capabilities, here is a [link](IntegrationCapabilities.md) with all the details.
 
-### Integration Repositories 
+## Integration Repositories 
 These repositories will help with integration specific needs.
 
 | Repository Name                                                                                         | Description |
