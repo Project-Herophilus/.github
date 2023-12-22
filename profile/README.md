@@ -14,7 +14,9 @@ new innovation is being delivered. While there are many industries that have ben
 industry that has potentially benefited more than Healthcare. For many decades it has also relied upon community development 
 in areas such as treatment protocols, safety standards, and industry standards based data formats. Now, as we head into a 
 new era driven by consumption and secure managed services it is a perfect time in healthcare for open source and
-healthcare.  Our goal is to [leverage industry leading open source technologies](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md) to help us bring the most widely adopted and used capabilities. Assets currently available provide tools for
+healthcare. 
+
+Our goal is to [leverage industry leading open source technologies](https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/Platform-Content/Technical/Technologies.md) to help us bring the most widely adopted and used capabilities. Assets currently available provide tools for
 configuration, testing, legacy and modern data integration, modern application integration, application development, synthetic data, and more.
 All of these assets are available to any organization.
 
@@ -38,31 +40,18 @@ can help us continually improve in any manner you deem needed.
 - To help and continue improving implementation expericence we have a series of implementation guides developed, please start [here](https://github.com/Project-Herophilus/Project-Herophilus-Assets/blob/main/Platform-Content/ImplementationGuides/intro.md) to get some instructions on how to implement.
 
 # Key Overall Project Capabilities Provided 
-As we built this platform out there are an extensive set of capabilities. We have tried to seperate those into categories.
+When we first formed our community we went through a very steep learning curve. Over the years we continue to improve. As we head into 2024 our biggest learned
+effort is that everything under one open source organization while easier to maintain is not beneficial or functional for the many
+that have leveraged our code. For 2024 we have worked to create multiple Git Hub organizations with each organization representing [//]: # (
+specific capability it served.
 
-## Data Integration Capabilities
-While there are a ton of very specific features and capabilities provided the platform and use cases it supports there 
-are some very basic overall capabilities, here is a [link](IntegrationCapabilities.md) with all the details.
-
-## Integration Repositories 
-These repositories will help with integration specific needs.
-
-| Repository Name                                                                                         | Description |
-|---------------------------------------------------------------------------------------------------------| ------------|
-| [Integration Framework for HDF](https://github.com/Project-Herophilus/IntegrationFramework-HDF)                    |Connecting to all types of data and providing access to information in near realtime. It is intended to be a comprehensive set of design patterns, reference architecture, accelerators to help anyone and supports hundreds of connectors from legacy to modern connectivity to industry standards to various public clouds connectivity needs.|
-| [ACE (Audit, Compliance and Error Handling) Framework](https://github.com/Project-Herophilus/ACEFramework-HDF) |Audit, Compliance and Error Handling is all about providing the ability to process errors, audit and other data. This consists of the endpoints, processing and persistence needed to support the platform.|
-| [Data Simulators](https://github.com/Project-Herophilus/DataSimulators)                                 | Having data is one aspect, the other is having tooling that can quickly be configured and used to test components. We have developed data-simulators for our core components, Simulators to help in implementation and testing.  |   
-
-## Application Development Repositories
-There is a wide variety of application development and integration capabilities that we have provided. Below are the specific 
-repositories that exist.
-
-| Repository Name                                                                                       | Description |
-|-------------------------------------------------------------------------------------------------------| ------------|
-| [Application Framework for HDF](https://github.com/Project-Herophilus/ApplicationFramework-HDF)       |Assets designed from multiple technologies that serve a variety of purposes from routing of data to data transformation to business driven data assets.|
-| [Defianz (De-Identification or Anonymization of Data)](https://github.com/Project-Herophilus/Defianz) |Providing the capability to de-identify or anonymize data |
-| [Event Builder](https://github.com/Project-Herophilus/Event-Builder)                                  | A comprehensive library for parsing and building various types of healthcare industry standards based data.|
-| [Synthetic Data](https://github.com/Project-Herophilus/DataSynthesis)                                 | When it comes to building or testing assets, having lots of data to resemble your production data is critical, it also helps drive innovation. We have open sourced a synthetic data platform and continue to enhance it based on feedback. It currently contains over 18 billion specific data attributes that can be used |
+## Key Community Assets
+| Repository Name                                                                        | Description                                                                                                       |                                                                        
+|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| [Integration Framework](https://github.com/HC-Connexxus-Integration) | Support for a variety of healthcare integration needs. Connectivity and data processing is simple to ensure implementation is quick and consistent. |
+| [Application Framework](https://github.com/HC-Connexxus-Apps)        | Applications that are built for two purposes: support industry needs or work directly with integration framework. |
+| [Synthetic Data Framework](https://github.com/SyntheticDataPlatform)       | Ability to generate billions of data elements easily and quickly for a wide variety of business needs.            |   
+| [Data Framework](https://github.com/HC-Connexxus-Data)                 | Some data models to use to help with ways to make healthcare data operational                                     |   
 
 ### Supporting Repositories 
 Customer application development efforts that support leveraging existing integrated assets are available to assist 
