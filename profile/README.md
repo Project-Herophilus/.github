@@ -24,6 +24,8 @@ effort is that everything under one open-source organization, while easier to ma
 who have leveraged our community efforts. For 2024, we have worked to create multiple Git Hub organizations, with each organization representing 
 specific capabilities it serves.
 
+<b>Aside from specific content-related sites, any repositories directly on this site have not been maintained since November 2023 and have all been moved to their respective new Git Hub organization.</b>
+
 ## Key Community Assets
 | Repository Name                                                                        | Description                                                                                                       |                                                                        
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
